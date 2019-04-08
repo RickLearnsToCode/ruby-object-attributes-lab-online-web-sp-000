@@ -11,7 +11,7 @@ def job=(job)
   @job = job
 end
 
-def job 
+def job
   @job
 end
 
