@@ -4,7 +4,7 @@ def name=(name)
 end
 
 def name
-  puts @name
+  @name
 end
 
 def breed=(breed)
@@ -12,7 +12,7 @@ def breed=(breed)
 end
 
 def breed
-  puts @breed
+  @breed
 end
 
 end
